@@ -1,0 +1,70 @@
+input{
+    width: 100px;
+    padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+
+}
+form{
+    padding-top: 20px;
+    border: 2px solid rgb(0, 255, 195);
+    width:350px;
+    height: 350px;
+    margin: 10px auto 10px auto;
+    background: #fff;
+    border-radius: 20px;
+
+}
+label{
+    color: rgb(72, 57, 65);
+    padding-inline-start:inherit;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    margin: 20px auto 10px auto;
+    max-width: 200px;
+    height: 20px;
+    width: 90px;
+    color: rgb(244, 242, 242);
+    background-color: rgb(13, 13, 26);
+    cursor: pointer;
+}
+div{
+    background-color: rgb(173, 173, 176);
+    
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 4rem;
+    background: white;
+    color:black;
+}
+
+th,td{
+    border:1px solid #ddd;
+    padding: 8px;
+}
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: #fff;
+    background-color: #1282a1;
+    align-items: center;
+
+}
+h1{
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 12px;
+    margin: 10px auto 10px auto;
+    max-width: 300px;
+    background: rgb(123, 117, 231);
+    width: auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+}
